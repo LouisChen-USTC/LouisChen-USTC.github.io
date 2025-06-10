@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, my name is Changhao Chen (陈昌灏)'
 description: null
 image: null
 author: null
