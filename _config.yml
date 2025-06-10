@@ -6,7 +6,7 @@ description: I am currently a third-year Ph.D student at the Kavli Institute of 
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://louischen-ustc.github.io/"# the base hostname & protocol for your site
 author: Louis Chen
-street_address: No.5, Yiheyuan Road, Haidian District, Beijing, P.R. China
+street_address: No.5, Yiheyuan Road, Haidian District
 city: Beijing
 state: 
 zip_code: 100871
